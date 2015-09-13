@@ -1,0 +1,12 @@
+html{font-family:calibri, serif, palatino;
+	 line-height:130%;
+	 word-spacing:0,2em;}
+h1  {text-align:left;}
+h2  {text-align:center;
+	 font-size:200%;
+	 color:white;
+	 background:#3095E9 url(plaatjes/giphy.gif) no-repeat 50% 50%;}
+p   {text-align:justify;
+	 text-indent:2em;}
+a	{font-style:italic;}
+body{color:#519DB9; background:#CCECF8;}
