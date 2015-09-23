@@ -1,0 +1,51 @@
+html{font-family:calibri, serif, palatino;
+	 line-height:130%;
+	 word-spacing:0,2em;
+	 text-indent:3em;}
+h1  {text-align:center;
+	 line-height:1em
+	}
+p   {text-align:justify;
+	 text-indent:2em;}
+a	{font-style:italic;}
+body{color:#464645; background:#EBEAE8;}
+input.MyButton {width:590px;
+	 text-indent:0,5em;
+   	 padding: 20px;
+	 font-weight: bold;
+	 font-size: 150%;
+	 background: #BABBBB;
+	 color: #464645;
+	 cursor: pointer;
+	 border: 1px solid #999999;
+	 border-radius: 15px;
+	 -webkit-box-shadow: 6px 6px 5px #999999;
+	 -moz-box-shadow: 6px 6px 5px #999999;
+	 box-shadow: 6px 6px 5px; #999999;
+	}
+input.MyButton:hover {
+	 color: #464645;
+	 background: #BABBBB;
+	 border: 1px solid #A3A3A3;
+	 -webkit-box-shadow: 2px 2px 5px #666666;
+	 -moz-box-shadow: 2px 2px 5px #666666;
+	 box-shadow: 2px 2px 5px; #666666;
+	}
+#container {
+    margin: 0 auto;
+    width: 960px;
+	}
+
+.content-right {
+    float: right;
+    width: 300px;
+	}
+dt	{font-weight:bold;
+	}
+p.oneven {color:#464645; 
+	background:#908F8F;
+	}
+
+p.even {color:#464645;
+	background:#A1A1A1;
+	}
